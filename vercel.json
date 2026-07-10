@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://stockmind-api.onrender.com/api/:path*"
+      "destination": "https://stockmind-backend-pilx.onrender.com/api/:path*"
     },
     {
       "source": "/(.*)",
